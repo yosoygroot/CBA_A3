@@ -5,11 +5,13 @@
             <English>Community Base Addons - Characters</English>
             <German>Community Base Addons - Charaktere</German>
             <French>Community Base Addons - Personnages</French>
+            <Spanish>Community Base Addons - Personajes</Spanish>
         </Key>
         <Key ID="STR_CBA_Characters_MenMalariaInfected">
             <English>Men (Malaria-Infected)</English>
             <German>Männer (Malaria infiziert)</German>
             <French>Hommes (Infectés par la malaria)</French>
+            <Spanish>Hombres (Infectados por la Malaria)</Spanish>
         </Key>
     </Package>
 </Project>
