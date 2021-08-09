@@ -13,6 +13,7 @@
             <Turkish>Community Base Addons - Ortak Bileşenler</Turkish>
             <Italian>Community Base Addons - Componenti Comuni</Italian>
             <Czech>Community Base Addons - Společná součást</Czech>
+            <Spanish>Community Base Addons - Componentes Comunes</Spanish>
         </Key>
         <Key ID="STR_cba_common_need_mission_start">
             <English>You must first start a mission.</English>
@@ -25,6 +26,7 @@
             <Czech>První musíte zapnout misi.</Czech>
             <Chinese>你必須先加載世界或執行一個任務。</Chinese>
             <Russian>Вначале необходимо запустить миссию.</Russian>
+            <Spanish>Primero debes iniciar una misión.</Spanish>
         </Key>
         <Key ID="STR_cba_common_WeaponsCategory">
             <English>CBA Weapons</English>
@@ -37,6 +39,7 @@
             <Chinese>CBA 武器</Chinese>
             <French>CBA Armes</French>
             <Russian>CBA Оружие</Russian>
+            <Spanish>CBA Armas</Spanish>
         </Key>
     </Package>
 </Project>
